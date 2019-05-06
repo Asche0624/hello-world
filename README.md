@@ -1,2 +1,5 @@
 # hello-world
-just another repository
+
+This is a tutorial of github.
+i just a rookie for ros learning.
+
